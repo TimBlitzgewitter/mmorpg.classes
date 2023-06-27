@@ -1,0 +1,6 @@
+name: PlayerClass
+version: '${project.version}'
+main: de.squeezzy.minecraftrpg.player.PlayerClass
+api-version: 1.19
+commands:
+  chooseclass:
